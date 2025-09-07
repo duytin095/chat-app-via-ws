@@ -1,4 +1,4 @@
-<h1>Simple Chat App (Vue + Node.js + WebSocket)</h1?
+<h1>Simple Chat App (Vue + Node.js + WebSocket)</h1>
 
 A minimal real-time chat demo built with:
 
