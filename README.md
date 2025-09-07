@@ -17,20 +17,6 @@ This is not WhatsApp, it’s a proof of concept to learn how WebSockets work.
 
 ---
 
-## Project Structure
-
-📦 chat-demo
-┣ 📂client # Vue frontend
-┃ ┣ 📜App.vue
-┃ ┣ 📜main.js
-┃ ┗ ...
-┣ 📂server # Node backend
-┃ ┗ 📜server.js
-┣ 📜package.json
-┗ 📜README.md
-
----
-
 ## Setup
 
 ### 1. Backend (WebSocket server)
