@@ -1,5 +1,4 @@
-<h1>README (Plain Markdown View)</h1>
-<pre># Simple Chat App (Vue + Node.js + WebSocket)
+<h1>Simple Chat App (Vue + Node.js + WebSocket)</h1?
 
 A minimal real-time chat demo built with:
 
